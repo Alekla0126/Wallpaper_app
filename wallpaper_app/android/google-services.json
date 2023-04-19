@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "826539660888",
+    "project_id": "wallpaper-app-5dbf7",
+    "storage_bucket": "wallpaper-app-5dbf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826539660888:android:3794e27669032f5c5ddc2d",
+        "android_client_info": {
+          "package_name": "com.alekla.Walpy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826539660888-n7p9o961ep18fmmtj8fldsj3i4467r8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alekla.Walpy",
+            "certificate_hash": "55d6b97b655bd9b1ee4c212cd7ae3b5bb7a01b4c"
+          }
+        },
+        {
+          "client_id": "826539660888-5abm86638g3328h4ag0nchmc23jlv18k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3DdTjZOppE2df_YfnKjXx_RpJXgJ-q0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826539660888-5abm86638g3328h4ag0nchmc23jlv18k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
