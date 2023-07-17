@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: subosito/flutter-action@v2
+      - run: flutter --disable-telemetry
       - run: flutter build web --release --web-renderer html --base-href /wallpaper_app/
       - run: git config user.name github-actions
       - run: git config user.email github-actions@github.com
